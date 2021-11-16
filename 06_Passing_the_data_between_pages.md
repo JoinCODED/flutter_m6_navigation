@@ -4,7 +4,7 @@
 
 Right now when you click any of the movie tiles, you will always see the Toy Story data, and to solve this issue, we need to pass the movie data from the home page to the movie page.
 
-<img src="https://lh6.googleusercontent.com/aHaTSNhI-C-3Co1fMktDmbd81pl2dshIQbR1t_OVPKCngRkOZlrLVcn8q6vc4cX9iPUr_XEu4gDVBpRedC2_m2ligXp2dNn7MfpaEmXkFHQc9zqXzxZS8o-Z-C4lay5PtqPbwBZh" alt="img" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/24327781/142048646-087d0774-0602-42c7-b364-7673e4881f4b.gif" alt="img" width="350" />
 
 
 
@@ -46,7 +46,7 @@ Go to the final variable movie, and then click
 
 Then click **Generate constructor**,
 
-**<img src="https://lh6.googleusercontent.com/v5bYq7OSmq2ftlIfKo4JNm3b7kgyDLXdoArMe5AVvYWyjd6zxAHOyYFCqz1TYwwsCBm5bghE9UZ5DdQqU-Fdop7k2E91z31OTm7yLfFwbeZd58Dv0d_gb0SfBF8_noRci5gDEtpw" alt="img" style="zoom: 67%;" />**
+**<img src="https://lh6.googleusercontent.com/v5bYq7OSmq2ftlIfKo4JNm3b7kgyDLXdoArMe5AVvYWyjd6zxAHOyYFCqz1TYwwsCBm5bghE9UZ5DdQqU-Fdop7k2E91z31OTm7yLfFwbeZd58Dv0d_gb0SfBF8_noRci5gDEtpw" alt="img" width="350" />**
 
 ```dart
  const MoviePage({
@@ -72,7 +72,7 @@ Then click **Generate constructor**,
 
     Because of this **required** keyword, we got an error on the **home_page.dart**, This error tells us that we need to pass the **movie** object inside the **MoviePage** widget.
 
-<img src="https://lh3.googleusercontent.com/8yl8O9U9-eLBC0BkXQgp5jydUloiz3SKyP0Ht8LyrSNDm1xNwOw3qXKNahLiNWMA0yQbplJAh1WoAgC97Y7SpWeRpjYQ1ZOx9uusY3PtjwjroA-dzzlkhyNkYgJRjCw0Lq5Q3khc" alt="img" style="zoom:67%;" />
+<img src="https://lh3.googleusercontent.com/8yl8O9U9-eLBC0BkXQgp5jydUloiz3SKyP0Ht8LyrSNDm1xNwOw3qXKNahLiNWMA0yQbplJAh1WoAgC97Y7SpWeRpjYQ1ZOx9uusY3PtjwjroA-dzzlkhyNkYgJRjCw0Lq5Q3khc" alt="img" width="350"  />
 
 
 
