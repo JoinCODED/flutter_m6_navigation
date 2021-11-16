@@ -6,7 +6,7 @@ We already created a new page, now we will need to learn how to move from the ho
 
 15. The first step is we want to specify when we will need to move to the new page, in our case we need to go to the movie page when the user clicks the movie tile. So, we will use the **InkWell** widget to add the **onTap** event on the movie tile, which has the same functionality as the **GestureDetector** widget, but with a nice animation effect ^_^.
 
-![img](https://lh6.googleusercontent.com/kot72_5VKV2laZStWICfrg8W0ZjJdyL_RVW6F00Tj68yEjD9q7ocgcN4t3beCCd9QMF1eQl07zW04JTJinzOhO7DWhZ0b4dVVOtlDTG-uimdJ-v6fYrm7z0CaE3bmTIAO-CtTDKI)
+<img src="https://lh6.googleusercontent.com/kot72_5VKV2laZStWICfrg8W0ZjJdyL_RVW6F00Tj68yEjD9q7ocgcN4t3beCCd9QMF1eQl07zW04JTJinzOhO7DWhZ0b4dVVOtlDTG-uimdJ-v6fYrm7z0CaE3bmTIAO-CtTDKI" alt="img" width="550" />
 
 
 
@@ -65,7 +65,8 @@ InkWell(      // <- Here
 
 16. Before we learn how to move to the new page, we will need to understand how the Navigator used the stack inside the Flutter.
 
-![img](https://lh6.googleusercontent.com/9j26ZwF5PsAngBZSIryDVKsTNUdQ0WjAJrvms2gu2PlCh46Tloblb_yGOqowMnqFIwk0J24P6due0dlF_6SUeOlU2r_mcs45mHth8aWzfHLWTToHLMbcF_-HbsqS_doIkkn-VXzm)
+<img src="https://lh6.googleusercontent.com/9j26ZwF5PsAngBZSIryDVKsTNUdQ0WjAJrvms2gu2PlCh46Tloblb_yGOqowMnqFIwk0J24P6due0dlF_6SUeOlU2r_mcs45mHth8aWzfHLWTToHLMbcF_-HbsqS_doIkkn-VXzm" alt="img" width="550" />
+
 
 You can imagine the Navigator as the **Stack** that contains multiple pages, and the first top page inside the stack is the page that the user will see it.
 
@@ -107,7 +108,7 @@ You can imagine the Navigator as the **Stack** that contains multiple pages, and
 
 19. Now, try to restart the app, and click one of the movie tiles. ^_^. 
 
-<img src="https://lh6.googleusercontent.com/CZwFYXXdLWlAtGvMcGxNEvLxXXKm8sr0LtYkIf6eGN2weAZfJtfwkmXn2X-1aUGQhqddXeBQs2u_pkcgoIkmGSittzYMMS08pw1lTcK1Xq1yiCdDUAMLxa8_1BuLwQO5TLKPNMdD" alt="img" style="zoom:33%;" />
+<img src="https://user-images.githubusercontent.com/24327781/142048432-eb1dd37c-c0ed-449a-a4f4-aa51e5320bfc.gif" alt="gif" width="350" />
 
 
 
