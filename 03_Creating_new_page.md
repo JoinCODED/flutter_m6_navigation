@@ -8,7 +8,8 @@ When you want to create a new screen, you will first create a new file inside th
 
 11. Right now, we will create a new screen that will be responsible for showing the movie details when the user clicks one of the movie tiles. 
 
-<img src="https://lh6.googleusercontent.com/CZwFYXXdLWlAtGvMcGxNEvLxXXKm8sr0LtYkIf6eGN2weAZfJtfwkmXn2X-1aUGQhqddXeBQs2u_pkcgoIkmGSittzYMMS08pw1lTcK1Xq1yiCdDUAMLxa8_1BuLwQO5TLKPNMdD" alt="img" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/24327781/142048135-1e3583a8-223e-4149-84a8-7e27af9752d2.gif" alt="gif" 
+width="250" />
 
 
 
