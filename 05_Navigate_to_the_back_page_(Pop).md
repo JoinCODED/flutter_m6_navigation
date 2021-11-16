@@ -6,7 +6,7 @@ We learned how to push to a new screen, but what about the back to the old scree
 
 20. When you click one of the movie tiles, your app will push to a new page. Note that since we added an **AppBar** widget inside the **MoviePage** widget, the Flutter will add the back button automatically. When you click this back button, you will return back to the old page.
 
-![img](https://lh6.googleusercontent.com/8DhgjyGFDGdrT1QbvaXbonlf7UF8fddcgQjnk_uKI-QyLJ8SbyKUir7x6YNgIQLNj6RPlAW6d29iePurGUr9xftDrEPOFnDrJxZ8NOpVE7PfnfRnGPGH_5TMtTb44d9ilkys6vmU)
+<img src="https://lh6.googleusercontent.com/8DhgjyGFDGdrT1QbvaXbonlf7UF8fddcgQjnk_uKI-QyLJ8SbyKUir7x6YNgIQLNj6RPlAW6d29iePurGUr9xftDrEPOFnDrJxZ8NOpVE7PfnfRnGPGH_5TMtTb44d9ilkys6vmU" alt="img" width="450" />
 
 
 
@@ -25,7 +25,7 @@ Add the **ElevatedButton** widget, on the top inside the children named argument
           ),
 ```
 
-<img src="https://lh4.googleusercontent.com/iBqjFINtkOlHAmFBySpRFPEkrZPREwS5bcZpUIzMkQhYX8b5IHVPIGgvjmw5oDWQeyYPa8uxo88dr6zepr7pUZ1Mj14ah1nynKmII38KYxUd0B1clLCU8yKQxxl9Vr2DgI_KaNui" alt="img" style="zoom:33%;" />
+<img src="https://lh4.googleusercontent.com/iBqjFINtkOlHAmFBySpRFPEkrZPREwS5bcZpUIzMkQhYX8b5IHVPIGgvjmw5oDWQeyYPa8uxo88dr6zepr7pUZ1Mj14ah1nynKmII38KYxUd0B1clLCU8yKQxxl9Vr2DgI_KaNui" alt="img" width="350" />
 
 
 
@@ -42,7 +42,7 @@ Add the **ElevatedButton** widget, on the top inside the children named argument
 
 > **Note:** when you want to use the **Navigator.pop**, you need to pass the **context** object.
 
-<img src="https://lh5.googleusercontent.com/-vreHJxhDkJBXM6gxRQPJqw4pV7rlVL4Pp_n2_6pelNbcDqVyrg80mwBUxswO0-cPeYYNWbqR9REp4cT8hMhF6BQbx-hziSuzgtURx_1hcIi0jFMYGUM5bW-S6zMzGOEDeV-UpYU" alt="img" style="zoom:50%;" />
+<img src="https://lh5.googleusercontent.com/-vreHJxhDkJBXM6gxRQPJqw4pV7rlVL4Pp_n2_6pelNbcDqVyrg80mwBUxswO0-cPeYYNWbqR9REp4cT8hMhF6BQbx-hziSuzgtURx_1hcIi0jFMYGUM5bW-S6zMzGOEDeV-UpYU" alt="img" width="350" />
 
 
 
