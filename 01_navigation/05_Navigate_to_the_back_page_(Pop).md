@@ -1,4 +1,3 @@
-# Navigate to the back page (Pop)
 
 We learned how to push to a new screen, but what about the back to the old screen.
 

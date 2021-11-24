@@ -1,4 +1,4 @@
-# Movie App with Navigation
+## Movie App with Navigation
 
 In this example, we will continue working on the Movie app, but we will add navigation which will help us to create an app with many screens.
 

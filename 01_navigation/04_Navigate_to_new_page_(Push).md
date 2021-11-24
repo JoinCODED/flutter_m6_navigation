@@ -1,4 +1,3 @@
-# Navigate to a new page (Push)
 
 We already created a new page, now we will need to learn how to move from the home page to the movie page.
 

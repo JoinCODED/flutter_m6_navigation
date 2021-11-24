@@ -1,4 +1,3 @@
-# Passing the data between pages
 
 Right now when you click any of the movie tiles, you will always see the Toy Story data, and to solve this issue, we need to pass the movie data from the home page to the movie page.
 
