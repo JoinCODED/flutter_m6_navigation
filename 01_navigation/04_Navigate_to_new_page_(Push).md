@@ -1,4 +1,3 @@
-
 We already created a new page, now we will need to learn how to move from the home page to the movie page.
 
 15. The first step is we want to specify when we will need to move to the new page, in our case we need to go to the movie page when the user clicks the movie tile. So, we will use the **InkWell** widget to add the **onTap** event on the movie tile, which has the same functionality as the **GestureDetector** widget, but with a nice animation effect ^\_^.
@@ -52,7 +51,7 @@ InkWell(      // <- Here
             ),
 ```
 
-16. Before we learn how to move to the new page, we will need to understand how the Navigator used the stack inside the Flutter.
+1.  Before we learn how to move to the new page, we will need to understand how the Navigator used the stack inside Flutter.
 
 ![screenshot](https://lh6.googleusercontent.com/9j26ZwF5PsAngBZSIryDVKsTNUdQ0WjAJrvms2gu2PlCh46Tloblb_yGOqowMnqFIwk0J24P6due0dlF_6SUeOlU2r_mcs45mHth8aWzfHLWTToHLMbcF_-HbsqS_doIkkn-VXzm)
 
@@ -76,7 +75,7 @@ You can imagine the Navigator as the **Stack** that contains multiple pages, and
 
 1. Here, we used the **Navigator.push** method to show the Movie Page widget.
 1. To use the **push** method, you will need to pass the **context** object first.
-1. Here you tell the Flutter which screen you will need to display. In our case, we show the **MoviePage** widget that we created before.
+1. Here you tell Flutter which screen you will need to display. In our case, we show the **MoviePage** widget that we created before.
 
 1. Don’t forget to import the **movie_page.dart** inside the **home_page.dart** file, because we called it inside the **Navigator.push** method.
 
